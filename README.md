@@ -7,6 +7,19 @@ This data analysis project aims to provide insights into the sales performance o
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Pizza Sales Dashboard 2](https://github.com/Gayathrisaisakthi22/Sales-Analysis/assets/159177772/ea2c91c4-cb75-480a-b995-f6637c525e15)
 
 ### Data Sources
