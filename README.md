@@ -3,9 +3,23 @@
 ### Project Overview
 This data analysis project aims to provide insights into the sales performance of an company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![Pizza Sales Dashboard 1](https://github.com/Gayathrisaisakthi22/Sales-Analysis/assets/159177772/fcdeace4-5570-49b9-a390-67079685f836)
 
 
-![Pizza Sales Dashboard 2](https://github.com/Gayathrisaisakthi22/Sales-Analysis/assets/159177772/8f376c75-90af-4991-8128-c023aaad6a7a)
+### Data Sources
+Sales Data: The primary dataset used for this analysis is the "pizzasales_data.csv" file, containing detailed information about each sale made by the company.
 
-### 
+### Tool
+- Excel - Data Cleaning
+- SQL Server - Data Analysis
+- PowerBI - Creating reports
+
+### Data Cleaning/Preparation
+In the initial data preparation phase, we performed the following tasks:
+
+- Data loading and inspection.
+- Handling missing values.
+- Data cleaning and formatting.
+
+### Exploratory Data Analysis
+EDA involved exploring the sales data to answer key questions, such as:
+
