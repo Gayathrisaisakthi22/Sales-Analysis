@@ -30,5 +30,12 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Top 5 Pizzas by Quantity, Bottom 5 Pizzas by Quantity
 - Top 5 Pizzas by Total Orders, Bottom 5 Pizzas by Total Orders
 
+### Data Analysis
+--KPI’s
+-- 1. Total Revenue:
+``` sql
+SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
+```
+
 
 
