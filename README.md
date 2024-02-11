@@ -59,6 +59,12 @@ FROM pizza_sales
 GROUP BY pizza_category
 ```
 
+### Results/Findings
+--Revenue: The Thai chicken Pizza contributes the maximum Revenue.
+--Quantity: The Classic Deluxe Pizza Contributes to maximum Total Quantities.
+--Total Orders: The Classic Deluxe Pizza Contributes to maximum Total Orders.
+
+
 
 
 
