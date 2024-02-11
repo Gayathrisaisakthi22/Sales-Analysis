@@ -72,6 +72,8 @@ GROUP BY pizza_category
 --Orders are highest on, weekends, Friday / Saturday evenings.
 
 ### Recommendations
+- Focus on expanding and promoting products in Large size Pizza.
+- Invest in marketing and promotions during peak sales seasons to maximize revenue.
   
 
 
