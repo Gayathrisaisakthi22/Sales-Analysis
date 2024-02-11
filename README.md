@@ -1,6 +1,9 @@
 # Sales-Analysis Dashboard
 
 ## Table Of Contents
+- [Project Overview](#Project-overview)
+- [Data Sources](#Data-sources)
+- [Recommendations](#Recommendations)
 
 
 ### Project Overview
