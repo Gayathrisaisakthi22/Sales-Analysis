@@ -31,7 +31,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Top 5 Pizzas by Total Orders, Bottom 5 Pizzas by Total Orders
 
 ### Data Analysis
---KPI’s
+-- KPI’s
 
 -- Average Pizzas Per Order
 ``` sql
