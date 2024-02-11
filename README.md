@@ -32,10 +32,15 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Data Analysis
 --KPI’s
--- 1. Total Revenue:
+
+-- Average Pizzas Per Order
 ``` sql
-SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
+SELECT CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) / 
+CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS DECIMAL(10,2))
+AS Avg_Pizzas_per_order
+FROM pizza_sales
 ```
+
 
 
 
