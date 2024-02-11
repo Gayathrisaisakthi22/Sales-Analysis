@@ -34,7 +34,6 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 Include some interesting code/features worked with
 
--- KPI’s
 
 -- Average Pizzas Per Order
 ``` sql
